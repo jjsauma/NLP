@@ -7,4 +7,6 @@ You will find text similarity, tokening, Word2Vec modelling, and topic modelling
 
 All code was tested and run on Google Collab.
 
+If you are taking the NLP journey, please explore the notebooks in order, which is specified by the number on the name.
+
 The only thing missing is the source text files, which are not included because they belong to Grupo Expansion.
